@@ -96,11 +96,9 @@ The dataset contains **100,000 employee records**, including information such as
 ---
 
 ## 📷 Dashboard Preview
-
 ```
-images/dashboard.png
 ```
-
+![Employee performance Dashboard](dashboard.png)
 ---
 
 ## 🚀 Project Outcomes
