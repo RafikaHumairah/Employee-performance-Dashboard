@@ -118,5 +118,4 @@ This dashboard enables HR professionals and decision-makers to:
 
 Aspiring Data Analyst passionate about transforming data into actionable business insights through data visualization and analytics.
 
-- GitHub: *Your GitHub Profile*
-- LinkedIn: *Your LinkedIn Profile*
+- LinkedIn: Rafika Humairah
